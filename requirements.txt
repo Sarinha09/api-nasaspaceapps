@@ -7,5 +7,6 @@ joblib
 seaborn
 gunicorn
 plotly
-flask-cors
+flask_cors
+
 
